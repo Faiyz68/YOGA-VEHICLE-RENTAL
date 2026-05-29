@@ -25,6 +25,7 @@ MVP/
     ├── Yacht.java            # Water Asset Class (High-end luxury marine configuration)
     └── Jetski.java           # Water Asset Class (High-speed recreational marine configuration)
 
+```
 ## 🎯 OOP Concepts Demonstrated
 
 ### V1.0 & V2.0: Classes, Objects, & Encapsulation
