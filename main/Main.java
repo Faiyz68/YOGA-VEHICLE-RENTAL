@@ -21,6 +21,7 @@ public class Main {
         ArrayList<Vehicle> RentedVehicles = new ArrayList<>();
         Scanner scanner=new Scanner(System.in);
         boolean isRunning = true;
+        Car c4= new Car();
         System.out.println("WELCOME TO YOGA VEHIVCLE RENTAL");
         System.out.println(CYAN + "=========================================================" + RESET);
         System.out.println(GREEN + " __   __  ____   _____          " + RESET);
